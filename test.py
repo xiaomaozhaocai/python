@@ -1,8 +1,11 @@
-sieve = [True] * 101
-for i in range(2,100):
-    if sieve[i]:
-        print(i)
-        for j in range(2,100):
-            sieve[j] = False
+def spam(divideBy):
+    try:
+        return 42 / divideBy 
+    except ZeroDivisionError:
+        print('Error: Invalid argument.') 
+        
+print(spam(2))
+print(spam(12))
+print(spam(0))
+print(spam(1))
 
-# todo 

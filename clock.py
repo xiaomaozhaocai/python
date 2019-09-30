@@ -32,8 +32,7 @@ class Clock(object):
     def __str__(self):
         """显示时间"""
         return '%02d:%02d:%02d' % \
-               (self._hour, self._minute, self._second)
-
+            (self._hour, self._minute, self._second)
 
 def main():
     clock = Clock(23, 59, 58)
@@ -45,3 +44,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

@@ -16,7 +16,7 @@ while True:
     y = y + y_speed
     if x > screen.get_width() - 50 or x < 0:
         x_speed = -x_speed
-
+        
     # if x > screen.get_width():
     #     x = -50
 
