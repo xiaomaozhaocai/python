@@ -22,7 +22,7 @@ def fast(x,y):
     time.sleep(0.0012)
     return x+y
 
-@metric
+@metric('zuopan')
 def slow(x,y,z):
     time.sleep(0.1234)
     return x*y*z
