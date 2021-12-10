@@ -1,0 +1,6 @@
+a = set([])
+a.add(1)
+a.add(2)
+print(a)
+a.remove(1)
+print(a)
