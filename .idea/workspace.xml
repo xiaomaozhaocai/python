@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="786438fd-c82c-499c-a121-25b92db25fd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise/10 模块/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/11 装饰器/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/11 装饰器/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/12 多线程/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/12 多线程/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/3 变量/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/3 变量/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/4 序列/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/4 序列/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/5 条件和循环/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/5 条件和循环/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/6 映射和集合/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/6 映射和集合/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/7 文件和输入输出/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/7 文件和输入输出/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/8 错误和异常/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/8 错误和异常/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/9 函数/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/9 函数/answer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install_python_windows.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/04/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/04/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/06/network_bandwidth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/07/zodiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/08/zodiac_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/10/chinese_zodiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/10/chinese_zodiac_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/10/zodiac_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/12/test_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/13/test_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/14/test_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/19/file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/21/exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/22/func_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/sanguo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/sanguo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/sanguo_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/sanguo_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/26/weapon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/28/func_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/29/func_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/30/func_test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/31/func_test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/32/func_test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/33/mod_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/33/mymod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/35/class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/38/with_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/39/thread_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/39/thread_testv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/40/con_cus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/41/stdlib_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/47/time_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/49/dir_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/51/numpy_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/55/iris_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/55/iris_training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/55/pandas_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/59/plt_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/62/pachong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/63/pachong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/64/pachong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/65/pachong4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/66/pachong5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/69/pachong6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/69/pachong_infoq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/70/pachong7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/70/pachong_infoq2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/build/lib/dbdb/tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/tests/test_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/tests/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/tests/test_physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/dbdb/tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/example.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/71/code/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_demo/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_knowledge_map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup_pycharm_win10.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/std_lib.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/chinese_zodiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/chinese_zodiac_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/class_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/build/lib/dbdb/tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/tests/test_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/tests/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/tests/test_physical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/dbdb/tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/example.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/code/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/con_cus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/dir_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/func_test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/iris_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/iris_training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/mod_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/mymod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/network_bandwidth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/numpy_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong_infoq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pachong_infoq2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/pandas_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/plt_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/sanguo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/sanguo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/sanguo_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/sanguo_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/stdlib_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/test_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/test_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/test_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/thread_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/thread_testv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/time_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/weapon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/with_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/zodiac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/zodiac_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timegeekbang.com/zodiac_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/sanguo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/sanguo_utf8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt/weapon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/在Windows系统上安装Python.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/零基础学Python.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="56186513-e3f9-4a57-8d24-1ddd3184e026" />
+  <component name="ProjectId" id="1m2EXa6vFjDZ8YaWXA5XLjjeBQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn_python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pachong">
+    <configuration name="func_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekbangpython/python_demo/22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekbangpython/python_demo/22/func_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="func_test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekbangpython/python_demo/28" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekbangpython/python_demo/28/func_test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pachong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pachong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sanguo_v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekbangpython/python_demo/26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekbangpython/python_demo/26/sanguo_v3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pachong" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.func_test2" />
+        <item itemvalue="Python.func_test" />
+        <item itemvalue="Python.sanguo_v3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="786438fd-c82c-499c-a121-25b92db25fd8" name="Default Changelist" comment="" />
+      <created>1608683325750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608683325750</updated>
+      <workItem from="1608683328087" duration="2150000" />
+      <workItem from="1608770542200" duration="1446000" />
+      <workItem from="1608856712202" duration="600000" />
+      <workItem from="1609287281186" duration="652000" />
+      <workItem from="1614843136729" duration="1210000" />
+      <workItem from="1614930239090" duration="4042000" />
+      <workItem from="1616466533398" duration="297000" />
+      <workItem from="1616466891855" duration="2227000" />
+      <workItem from="1617003638148" duration="494000" />
+      <workItem from="1617004168919" duration="10442000" />
+      <workItem from="1621393299083" duration="791000" />
+      <workItem from="1621400053538" duration="1358000" />
+      <workItem from="1632295728412" duration="35000" />
+      <workItem from="1634033484450" duration="780000" />
+      <workItem from="1634034471050" duration="727000" />
+      <workItem from="1634176789931" duration="520000" />
+      <workItem from="1634178948639" duration="1534000" />
+      <workItem from="1634792649832" duration="137000" />
+      <workItem from="1634792883231" duration="4868000" />
+      <workItem from="1635224966953" duration="7242000" />
+      <workItem from="1637655313164" duration="1844000" />
+      <workItem from="1639103399050" duration="4032000" />
+    </task>
+    <task id="LOCAL-00001" summary="all files">
+      <created>1639103467018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639103467019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learn_python$main.coverage" NAME="main Coverage Results" MODIFIED="1608683385478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$pachong.coverage" NAME="pachong Coverage Results" MODIFIED="1639106474705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$test.coverage" NAME="test Coverage Results" MODIFIED="1635321999003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$func_test.coverage" NAME="func_test Coverage Results" MODIFIED="1617085205537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekbangpython/python_demo/22" />
+    <SUITE FILE_PATH="coverage/learn_python$sanguo_v3.coverage" NAME="sanguo_v3 Coverage Results" MODIFIED="1617004234097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekbangpython/python_demo/26" />
+    <SUITE FILE_PATH="coverage/learn_python$zodiac.coverage" NAME="zodiac Coverage Results" MODIFIED="1615188058205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learn_python$func_test2.coverage" NAME="func_test2 Coverage Results" MODIFIED="1617090407051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekbangpython/python_demo/28" />
+  </component>
+</project>

@@ -6,3 +6,4 @@ elif name == 'liu':
 else:
     print('什么都不是')
 
+
