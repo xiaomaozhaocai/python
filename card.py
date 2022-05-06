@@ -14,7 +14,7 @@ class Card(object):
 
     @property
     def suite(self):
-        return self._suite
+        return self._suit
 
     def __str__(self):
         all_suites = ('♠', '♥', '♣', '♦')
