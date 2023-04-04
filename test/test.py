@@ -1,1 +1,2 @@
-print('this is test file')
+import sys
+print(sys.path)
