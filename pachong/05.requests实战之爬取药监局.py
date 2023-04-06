@@ -1,15 +1,15 @@
-#! /usr/bin/env python3
-# -*- coding:utf-8 -*-
 import requests
-
+from lxml import etree
 if __name__ == '__main__':
-
-    url = 'http://scxk.nmpa.gov.cn:81/xk/'
     headers = {
-        'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'
     }
-    page_text = requests.get(url=url,headers=headers).text
-    with open('./huazhuangpin.html','w',encoding='utf-8') as fp:
-        fp.write(page_text)
-
-
+    url = 'https://anqiu.58.com/ershoufang/'
+    page_text = requests.get(url = url,headers = headers).text
+    tree = etree.HTML(page_text)
+    li_List = tree.xpath('//section[@class = "list"]/div')
+    fp = open('58.txt','w',encoding='utf-8')
+    for li in li_List:
+        title = li.xpath('./a/div[2]//div/h3/text()')[0]
+        print(title)
+        fp.write(title+'\n')
