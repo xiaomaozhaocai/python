@@ -20,7 +20,7 @@ if __name__ == '__main__':
     page_json = reponse.json()
 
     #持久化存储
-    fp = open('./dog.json','w',encoding='utf-8')
+    fp = open('./json/'+word+'.json','w',encoding='utf-8')
     json.dump(page_json,fp=fp,ensure_ascii=False)
 
     print(fp)
