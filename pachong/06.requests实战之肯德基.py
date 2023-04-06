@@ -12,17 +12,25 @@ numbers = 1
 number_pages = 0
 # 第一次检测页数
 state = True
-while numbers != 0:
-    number_pages += 1
-    data = {
+
+data = {
         'cname': '',
         'pid': '',
         'keyword': word,
-        'pageIndex': number_pages,
+        'pageIndex': 1,
         'pageSize': '10',
     }
 
+# while numbers != 0:
+#     number_pages += 1
+
+
 response = requests.post(url=url, data=data, headers=header)
+
+# print(response)
+#
+# exit()
+
 text_list = response.json()
 
 fp = open('./kdj.json', 'w', encoding='utf-8')
